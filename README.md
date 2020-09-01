@@ -1,8 +1,10 @@
 # Tetris
 C lang, simple tetris
 
-버그가 있습니다.  
-2017년도에 만든 게임 입니다.  
+There may be bugs.sorry    
 
-#### URL
+#### blog
 https://blockdmask.tistory.com/51
+
+#### youtube
+https://youtu.be/Dsvl9-dUCUE
